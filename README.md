@@ -55,11 +55,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Machine Learning Engineer from Poland. :robot: 
+I am a Senior Machine Learning Engineer from Poland. :robot: 
 
-- :zap: I’m working in a largest European :snake: software house and drive projects from idea to delivery.
+- :zap: I’m working in a Europe’s leading applied AI company — where I drive AI and Machine Learning projects from idea to delivery. :snake:
 
-- :medal_sports: I have strong background in Mathematics and practical experience in Web Development.
+- :medal_sports: I combine a strong Statistics background with hands-on experience in Machine Learning, Deep Learning, and AI to build impactful solutions.
 
 <!-- - :x: I won't do frontend of your app even though I could do. -->
 
